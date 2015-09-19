@@ -38,6 +38,7 @@
 Welcome to GitHub Pages.
 </h3>
 
+</section>
 
 #One
 
