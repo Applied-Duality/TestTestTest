@@ -40,4 +40,7 @@
 
 <h1>Four</h1>
 
+</div>
+<script src="javascripts/scale.fix.js"></script>
+    
 </body>
